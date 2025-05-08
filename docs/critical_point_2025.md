@@ -59,9 +59,9 @@ The convergence of ΔF↑, P(t)↓, and S↓ around 2025 represents a critical g
 2025年前後に ΔF↑・P(t)↓・S↓ が交差する構造は、**人類史的な臨界点**を意味します。
 
 Without immediate adaptive buffering and redesign,  
-the default trajectory is societal fragmentation.  
+the risk of societal collapse and fragmentation increases.  
 このまま適応バッファと再設計がなければ、  
-社会は**崩壊と断絶のデフォルト経路**へと進みます。
+社会が崩壊と断絶を迎えるリスクが高まることが考えられます。
 
 ---
 
