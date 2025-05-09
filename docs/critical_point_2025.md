@@ -84,7 +84,8 @@ As global society approaches the informational collapse threshold around 2025–
 
 ---
 
-> For the mathematical derivation of the 2025 threshold, see [`collapse_basis.md`](./collapse_basis.md).  
-> 2025年の臨界点に関する数理的導出については、[`collapse_basis.md`](./collapse_basis.md) を参照してください。
+> For the mathematical derivation of the 2025 threshold, see:  
+2025年の臨界点に関する数理的導出については、  
+→ [collapse_basis.md](./collapse_basis.md)  をご参照ください。
 
 ---
