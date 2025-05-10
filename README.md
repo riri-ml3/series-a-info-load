@@ -26,12 +26,13 @@ conventional social design and ethical models become rapidly dysfunctional.
 ## 2. Structure of This Series  
 ## 2. 本シリーズの構成
 
-| Document                         | Summary (EN)                                                  | ドキュメント                         | 内容概要 (JP)                                   |
-|:---------------------------------|:--------------------------------------------------------------|:-------------------------------------|:-----------------------------------------------|
-| `theory.md`                     | Core theory of ΔF–P(t)–S and consciousness collapse           | `theory.md`                         | 情報負荷と意識崩壊メカニズムの基本理論         |
-| `critical_point_2025.md`        | Timeline and structural model of the 2025–26 threshold        | `critical_point_2025.md`            | 2025〜26年臨界点到達シナリオとモデル裏付け     |
-| `intervention.md`               | Intervention Models for Collapse Prevention                  | `intervention.md`                   | ΔF・P(t)・S介入による崩壊回避戦略設計           |
-| `social_selection.md`           | Social bifurcation & survival-divergence structure            | `social_selection.md`               | 臨界突破後の社会選別・未来分岐構造               |
+| Document | Summary (EN) | ドキュメント | 内容概要（JP） |
+|:--|:--|:--|:--|
+| `theory.md` | Core theory of ΔF–P(t)–S and consciousness collapse | theory.md | 情報負荷と意識崩壊メカニズムの基本理論 |
+| `critical_point_2025.md` | Timeline and structural model of the 2025–26 threshold | critical_point_2025.md | 2025〜26年臨界点到達シナリオとモデル裏付け |
+| `intervention_model.md` | Intervention Models for Collapse Prevention | intervention_model.md | ΔF・P(t)・S介入による崩壊回避戦略設計 |
+| `social_selection.md` | Social bifurcation & survival-divergence structure | social_selection.md | 臨界突破後の社会選別・未来分岐構造 |
+| `interest_intervention.md` | Internal Models of Intervention through Interest, Recognition, and Meaning Generation | interest_intervention.md | 「好き・意味生成・認識構造」による内的介入モデル |
 
 ---
 
