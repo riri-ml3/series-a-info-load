@@ -80,3 +80,15 @@ Visualizing this structure and properly addressing it in intervention design is 
 
 欲求模倣型AI介入は、一見ΔFを低減し、P(t)を安定化させるように見えるが、実際にはF(C,U)の未形成を引き起こし、絶対1を内側から侵食する“静的崩壊”リスクを持つ。  
 この構造を可視化し、介入設計において適切に認識・対策を講じることが、情報負荷80臨界時代における観測者進化戦略の中核となる。
+
+---
+
+## Next: Internal Intervention and Meaning Generation  
+## 次章：内部介入と意味生成のプロセス
+
+For deeper discussion of internal pathways—especially how personal interest strengthens the structure of F(C,U)—see:  
+内的な進化経路、とくに「好き・興味」がどのようにF(C,U)の構造を強化し、崩壊を防ぐかに関するより詳細な議論については、以下を参照してください：
+
+- [interest_intervention.md](./interest_intervention.md)  
+  Internal Models of Intervention through Interest, Recognition, and Meaning  
+  「好き」と「意味」の共鳴による内部介入モデル
