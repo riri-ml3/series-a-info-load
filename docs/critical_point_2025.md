@@ -65,7 +65,7 @@ P_c = \frac{\ln(0.01)}{-\beta} \approx 80
 We ran **\(n = 10{,}000\)** Monte-Carlo simulations, sampling \(\tau\) and \(\beta\) from normal distributions within the ranges above.  
 上記範囲で \(\tau,\beta\) をサンプリングした **\(n = 10{,}000\)** 回の Monte-Carlo 感度分析を実施しました。  
 
-![Monte-Carlo sensitivity analysis for IL 80 critical month](../assets/critical_month_histogram.png)
+![Monte-Carlo sensitivity analysis](../assets/critical_month_histogram_v4.png)
 
 *Figure 2 — Distribution of the predicted critical month for IL 80 (median ≈ July 2025; 95 % CI: late-June – early-August 2025).*  
 *図 2 — IL 80 に対する臨界月の分布（中央値：約 2025 年 7 月、95 % 信頼区間：6 月下旬〜8 月上旬）。*  
