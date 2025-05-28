@@ -28,7 +28,7 @@ It complements `critical_point_2025.md` by showing how key parameters converge o
 G(t) = G₀ × (1 + r)^(t−2010),  where  G₀≈3 hours/day, r≈0.16
 ```
 •	Projected G(2025):
-G(2025) ≈ 3 × (1.16)^(15) ≈ 19 hours/day
+G(2025) ≈ 3 × (1.16)^(15) ≈ 19 hours/day  
 2025年には一人あたり約19時間/日の情報接触
 
 ---
