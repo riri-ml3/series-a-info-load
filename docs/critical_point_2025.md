@@ -45,9 +45,9 @@ P_c = \frac{\ln(0.01)}{-\beta} \approx 80
 モデルでは適応度関数 \(A(t)=\exp(-\beta P(t))\) を採用し、  
 \(\beta = 0.057\)、閾値 **\(A(t) \le 0.01\)** を設定することで  
 
-\[
+```math
 P_c = \frac{\ln(0.01)}{-\beta} \approx 80
-\]
+```
 
 を得る。  
 
