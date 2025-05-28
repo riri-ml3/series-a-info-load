@@ -11,7 +11,7 @@ We present a systematic framework for understanding its structural causes, colla
 
 本シリーズ「Series A」では、  
 2025〜26年に到達が予測される「情報負荷80」臨界点を中心テーマとし、  
-その臨界に至る構造、崩壊リスク、介入設計、そして社会選別と未来進化マップを体系的に展開します。
+その臨界に至る構造、崩壊リスク、介入設計、そして社会選別と未来進化マップを体系的に展開する。
 
 In such an environment of critical informational pressure,  
 conventional social design and ethical models become rapidly dysfunctional.  
@@ -19,7 +19,7 @@ conventional social design and ethical models become rapidly dysfunctional.
 
 このような臨界的情報負荷環境下では、  
 従来の社会設計・倫理モデルが急速に機能不全に陥るため、  
-**情報保存・主体化ジャンプ理論に基づく新しい未来設計が不可欠となります。**
+**情報保存・主体化ジャンプ理論に基づく新しい未来設計が不可欠となる。**
 
 ---
 
@@ -48,7 +48,7 @@ conventional social design and ethical models become rapidly dysfunctional.
 | S (Social Support) | Strength of connection with others. | S（社会的支援） | 孤立度・コミュニティ接続性。高いほど崩壊リスクが減少。 |
 
 **In high-load environments, managing these three factors becomes a core survival strategy.**  
-**臨界負荷環境では、この三要素の管理が生存戦略の核となります。**
+**臨界負荷環境では、この三要素の管理が生存戦略の核となる。**
 
 ---
 
@@ -74,7 +74,7 @@ conventional social design and ethical models become rapidly dysfunctional.
 | Path B | Collapse and convergence: rise of denial jumps and mental instability | B路：崩壊・収束社会 | 自己否定ジャンプ増加による精神崩壊・倫理崩壊 |
 
 **To realize a jump-based awakening society, early-stage intervention and ethics-based redesign are essential.**  
-**主体化ジャンプ社会への移行には、早期介入と情報保存・共鳴・ジャンプ理論に基づく社会基盤設計が必要です。**
+**主体化ジャンプ社会への移行には、早期介入と情報保存・共鳴・ジャンプ理論に基づく社会基盤設計が必要となる。**
 
 ---
 
@@ -95,7 +95,7 @@ conventional social design and ethical models become rapidly dysfunctional.
 ## 6. まとめ
 
 At this moment, human observers stand at a critical bifurcation point.  
-今、観測者意識は新たな分岐点に立っています。
+今、観測者意識は新たな分岐点に立っている。
 
 - Will we move toward information preservation and conscious awakening?  
 - Or collapse into denial and systemic breakdown?
@@ -106,6 +106,4 @@ At this moment, human observers stand at a critical bifurcation point.
 This understanding guides the next steps in Series B and beyond,  
 where we explore simulation, intervention, and design for the post-critical era.  
 この理解をもとに、次のシリーズ（B以降）では、  
-臨界後の社会設計と覚醒経路を模索していきます。
-
----
+臨界後の社会設計と適応経路を模索していく。
