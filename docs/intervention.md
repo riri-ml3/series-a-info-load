@@ -7,10 +7,10 @@
 ## 1. 序論
 
 This document proposes intervention strategies to reduce the risk of informational collapse projected around 2025–26.  
-本ドキュメントでは、2025〜26年に予測される情報崩壊リスクを低減するための介入戦略を提案します。
+本ドキュメントでは、2025〜26年に予測される情報崩壊リスクを低減するための介入戦略を提案する。
 
 We build upon the ΔF–P(t)–S framework, identifying key variables that can be buffered or redesigned.  
-ΔF–P(t)–S フレームワークに基づいて、バッファリングや再設計が可能な主要変数を特定します。
+ΔF–P(t)–S フレームワークに基づいて、バッファリングや再設計が可能な主要変数を特定する。
 
 ---
 
@@ -82,7 +82,7 @@ We build upon the ΔF–P(t)–S framework, identifying key variables that can b
 ## 5. レジリエント社会に向けて
 
 The combined intervention strategy must function as a dynamic scaffold, allowing diverse observers to retain self-agency under high ΔF.  
-この統合的介入戦略は、高ΔF環境下でも多様な観測者が自己主体性を保持できる動的足場として機能する必要があります。
+この統合的介入戦略は、高ΔF環境下でも多様な観測者が自己主体性を保持できる動的足場として機能する必要がある。
 
 ---
 
@@ -90,7 +90,7 @@ The combined intervention strategy must function as a dynamic scaffold, allowing
 ## 6. 認識・論理・倫理の基盤
 
 Effective interventions rely not only on ΔF–P(t)–S adjustments but also on a deeper understanding of how individuals recognize themselves and others.  
-介入戦略は ΔF–P(t)–S の調整だけでなく、自己や他者をいかに認識し、尊重するかという**認識・論理・倫理の基盤**があってこそ機能します。
+介入戦略は ΔF–P(t)–S の調整だけでなく、自己や他者をいかに認識し、尊重するかという**認識・論理・倫理の基盤**があってこそ機能する。
 
 1. **Self- and Other-Recognition**  
    - Acknowledge the limits of our own mental models  
@@ -113,4 +113,6 @@ Effective interventions rely not only on ΔF–P(t)–S adjustments but also on 
      **ジャーナリングやピアディスカッションによる内省セッションの導入**
 
 These three pillars create the cognitive, logical, and ethical soil in which ΔF–P(t)–S interventions can truly take root.  
-これらの三本柱は、ΔF–P(t)–S介入が根を張り、持続可能な変容をもたらすための**認知的・論理的・倫理的基盤**となります。
+これらの三本柱は、ΔF–P(t)–S介入が根を張り、持続可能な変容をもたらすための**認知的・論理的・倫理的基盤**となる。
+
+---
