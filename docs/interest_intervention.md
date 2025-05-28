@@ -9,8 +9,8 @@
 In an age of overwhelming information and increasing external mediation, observers face not only systemic collapse but the gradual erosion of internal meaning-generation capabilities.  
 To complement external interventions (e.g., ΔF–P(t)–S strategies), this document explores how internal reinforcement—through recognition and cultivation of authentic interests—can restore stability and self-agency.
 
-情報過多と外部依存が進行する時代において、観測者はシステムの崩壊だけでなく、内部の意味生成能力の静かな侵食にも直面しています。  
-本ドキュメントでは、ΔF–P(t)–Sといった外的介入に加えて、「純粋な興味」の発見と育成によって、観測者の内的安定性と自己主体性をいかに回復できるかを探ります。
+情報過多と外部依存が進行する時代において、観測者はシステムの崩壊だけでなく、内部の意味生成能力の静かな侵食にも直面している。  
+本ドキュメントでは、ΔF–P(t)–Sといった外的介入に加えて、「純粋な興味」の発見と育成によって、観測者の内的安定性と自己主体性をいかに回復できるかを探る。  
 
 ---
 
@@ -153,11 +153,19 @@ This internal intervention process directly strengthens:
 
 ### 3.4 Example Learning Paths / 例：共鳴から構造へ
 
+<!-- English table -->
+| Initial Interest | Exploratory Flow | Structured Knowledge | Semantic Network Expansion |
+|------------------|-----------------|----------------------|----------------------------|
+| Likes music      | Harmony → Pitch → Vibration → Wave-number theory | Acoustics & Cognitive Science | Mathematics, Neuroscience, Arts |
+| Likes painting   | Color → Light → Visible Spectrum | Optics & Psychology | Physics, Cultural Theory, Consciousness Studies |
+| Likes dance      | Movement → Motor Control → Nervous System → Evolutionary Theory | Kinesiology & Anatomy | Biology, Anthropology, Social Evolution Theory |
+
+<!-- Japanese table -->
 | 興味の発生点 | 探究の流れ | 構造化された知 | 意味ネットワークの広がり |
-|--------------|------------|----------------|--------------------------|
-| 音楽が好き    | 和音 → 音階 → 振動 → 周波数理論 | 音響物理・認知科学 | 数理、脳科学、芸術 |
-| 絵画が好き    | 色彩 → 光 → 可視スペクトル | 光学・心理学 | 物理・文化論・意識論 |
-| ダンスが好き  | 動き → 身体制御 → 神経系 → 進化論 | 運動科学・解剖学 | 生物学・人類学・社会進化論 |
+|--------------|-----------|----------------|---------------------------|
+| 音楽が好き   | 和音 → 音階 → 振動 → 周波数理論 | 音響物理・認知科学 | 数理、脳科学、芸術 |
+| 絵画が好き   | 色彩 → 光 → 可視スペクトル | 光学・心理学 | 物理・文化論・意識論 |
+| ダンスが好き | 動き → 身体制御 → 神経系 → 進化論 | 運動科学・解剖学 | 生物学・人類学・社会進化論 |
 
 ---
 
@@ -268,14 +276,14 @@ In high-ΔF societies, restoring this self-recognition structure becomes essenti
 This document is structurally integrated into a broader theory of observer-based reality evolution,  
 including the following conceptual and mathematical frameworks:
 
-このドキュメントは、以下を含む**観測者基盤の現実進化理論**に統合されている：
+このドキュメントは、以下を含む**観測者基盤の現実進化理論**に統合される：
 
 - F(C,U)モデル：意識Cと欲求Uの統合過程と意味生成構造  
 - 絶対1理論：情報の自律選択と認識ネットワークの中核安定構造  
 - ΔF–P(t)–S構造：情報圧・神経可塑性・社会支援の崩壊リスクモデル  
 - ミラー理論：観測者と宇宙秩序の反射的対応構造  
 
-These models are developed throughout Series A–F.  
-これらのモデルは Series A〜F の各リポジトリで展開されている。
+> *Note*: The conceptual models introduced here (F(C,U), absolute-1 theory, ΔF–P(t)–S, Mirror Theory, etc.) form a shared foundation that will be expanded across **Series A–F**.
+> ここで提示した F(C,U) や絶対1理論、ΔF–P(t)–S 構造、ミラー理論などは **Series A〜F** の各リポジトリで順次詳細化される共通基盤である。
 
 ---
