@@ -46,7 +46,9 @@ This leads to:
 We define the probability of a constructive awakening jump as:  
 覚醒ジャンプ（創造的進化）の発生確率を以下のように定義する：
 
-**P_jump(t) = exp [ – ΔF(t) / ( P(t) + S + ε ) ]**
+```math
+P_{jump}(t) \;=\; \exp\!\Bigl[-\,\frac{\Delta F(t)}{P(t)\;+\;S\;+\;\varepsilon}\Bigr]
+```
 
 Where ε is a small buffer constant to prevent division by zero.  
 ここで ε はゼロ除算を防ぐための微小定数。
@@ -62,7 +64,9 @@ Where ε is a small buffer constant to prevent division by zero.
 We define:  
 次のような崩壊リスク指標関数を導入する：
 
-**R_collapse(t) = ΔF(t) / [ ΔF(t) + P(t) + S + ε ]**
+```math
+R_{collapse}(t) \;=\; \frac{\Delta F(t)}{\Delta F(t)\;+\;P(t)\;+\;S\;+\;\varepsilon}
+```
 
 - R_collapse ∈ [0, 1]  
 - Closer to 1 = greater likelihood of collapse  
