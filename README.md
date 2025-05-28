@@ -6,20 +6,17 @@
 ## 1. Introduction  
 ## 1. はじめに
 
-This series, **Series A**, explores the predicted critical threshold of **Information Load 80** expected to arrive in 2025–2026.  
-We present a systematic framework for understanding its structural causes, collapse risks, potential interventions, and societal bifurcation patterns.
+This series, **Series A**, focuses on the projected **critical threshold of Information Load 80**, which our current model places at **≈ July 2025 (± 1 month)**.  
+We systematically explore the structural causes driving the system toward this threshold, collapse risks, possible intervention designs, and the resulting societal bifurcation patterns and future-evolution maps.  
+Under such a critical information-pressure environment, conventional social design and ethical models become rapidly dysfunctional, making a new framework based on **information preservation and jump-based self-actualization theory** essential for future planning.  
+Beyond this point, the curve suggests a rapid escalation toward **Information Load 100 by mid-2026**, further intensifying these dynamics.  
+*All projections are subject to refinement as updated data become available.*
 
-本シリーズ「Series A」では、  
-2025〜26年に到達が予測される「情報負荷80」臨界点を中心テーマとし、  
-その臨界に至る構造、崩壊リスク、介入設計、そして社会選別と未来進化マップを体系的に展開する。
-
-In such an environment of critical informational pressure,  
-conventional social design and ethical models become rapidly dysfunctional.  
-**A new design based on information preservation and jump-based awakening theory becomes essential.**
-
-このような臨界的情報負荷環境下では、  
-従来の社会設計・倫理モデルが急速に機能不全に陥るため、  
-**情報保存・主体化ジャンプ理論に基づく新しい未来設計が不可欠となる。**
+本シリーズ「Series A」では、モデル解析により **2025 年 7 月頃** に到達が見込まれる **「情報負荷 80」** の臨界点を中心テーマとして扱う。  
+その臨界に至る構造、崩壊リスク、介入設計、そして社会選別と未来進化マップを体系的に展開する。  
+このような臨界的情報負荷環境下では、従来の社会設計・倫理モデルが急速に機能不全に陥るため、**情報保存・主体化ジャンプ理論** に基づく新しい未来設計が不可欠となる。  
+さらにその後、指数的増大により **2026 年中頃には情報負荷 100** に迫ると予測され、上記の動態が一層先鋭化すると考えられる。  
+※ これらの予測は、新たなデータに応じて随時更新・精緻化される予定である。
 
 ---
 
