@@ -18,12 +18,12 @@ In this document, we analyze the critical threshold scenario in which informatio
 ### 2.1 IL 指標と適応度関数  
 
 We define collapse onset using the following inequality:  
-崩壊の発火条件は以下の不等式で定義されます：  
+崩壊の発火条件は以下の不等式で定義される：  
 
 **ΔF(t) > θ_collapse and P(t) ≪ 1 and S ≪ 1**  
 
 When these conditions are satisfied, the following risks rise sharply:  
-この条件が満たされると、以下のリスクが急激に増大します。  
+この条件が満たされると、以下のリスクが急激に増大する。  
 
 - **Executive dysfunction**（実行機能の破綻）  
 - **Depressive ideation**（抑うつ的思考）  
@@ -38,9 +38,9 @@ We adopt the adaptation function
 \(A(t)=\exp(-\beta P(t))\) with \(\beta = 0.057\).  
 Setting the collapse threshold at **\(A(t) \le 0.01\)** yields  
 
-\[
-P_c = \frac{\ln(0.01)}{-\beta} \approx 80 .
-\]
+```math
+P_c = \frac{\ln(0.01)}{-\beta} \approx 80
+```
 
 モデルでは適応度関数 \(A(t)=\exp(-\beta P(t))\) を採用し、  
 \(\beta = 0.057\)、閾値 **\(A(t) \le 0.01\)** を設定することで  
@@ -49,7 +49,7 @@ P_c = \frac{\ln(0.01)}{-\beta} \approx 80 .
 P_c = \frac{\ln(0.01)}{-\beta} \approx 80
 \]
 
-を得ます。  
+を得る。  
 
 ---
 
@@ -65,13 +65,13 @@ P_c = \frac{\ln(0.01)}{-\beta} \approx 80
 We ran **\(n = 10{,}000\)** Monte-Carlo simulations, sampling \(\tau\) and \(\beta\) from normal distributions within the ranges above.  
 上記範囲で \(\tau,\beta\) をサンプリングした **\(n = 10{,}000\)** 回の Monte-Carlo 感度分析を実施しました。  
 
-![Monte-Carlo sensitivity analysis](../assets/critical_month_histogram_v4.png)
+![Monte-Carlo sensitivity analysis](../critical_month_histogram_v4.png)
 
 *Figure 2 — Distribution of the predicted critical month for IL 80 (median ≈ July 2025; 95 % CI: late-June – early-August 2025).*  
 *図 2 — IL 80 に対する臨界月の分布（中央値：約 2025 年 7 月、95 % 信頼区間：6 月下旬〜8 月上旬）。*  
 
 Even under simultaneous ±10 % variation, the 95 % window remains about six weeks, validating the use of “≈ July 2025 (± 1 month)” in the main text.  
-±10 % 同時変動下でも 95 % 信頼区間は約 6 週間に収まり、本文中の「2025 年 7 月頃 (±1 か月)」という記述の妥当性が確認されました。  
+±10 % 同時変動下でも 95 % 信頼区間は約 6 週間に収まり、本文中の「2025 年 7 月頃 (±1 か月)」という記述の妥当性が確認された。  
 
 ---
 
@@ -90,7 +90,7 @@ Even under simultaneous ±10 % variation, the 95 % window remains about six week
 ## 4. 指標と早期警告
 
 To anticipate collapse, we monitor:  
-崩壊を予測するために以下をモニタリングします：
+崩壊を予測するために以下をモニタリング：
 
 - **Average screen time**（平均スクリーンタイム）  
 - **Sleep duration distributions**（睡眠時間の分布）  
@@ -103,12 +103,12 @@ To anticipate collapse, we monitor:
 ## 5. 結論
 
 The convergence of ΔF↑, P(t)↓, and S↓ around 2025 represents a critical global moment.  
-2025年前後に ΔF↑・P(t)↓・S↓ が交差する構造は、**人類史的な臨界点**を意味します。
+2025年前後に ΔF↑・P(t)↓・S↓ が交差する構造は、**人類史的な臨界点**を意味する。
 
 Without immediate adaptive buffering and redesign,  
 the risk of societal collapse and fragmentation increases.  
 このまま適応バッファと再設計がなければ、  
-社会が崩壊と断絶を迎えるリスクが高まることが考えられます。
+社会が崩壊と断絶を迎えるリスクが高まることが考えられる。
 
 ---
 
@@ -117,10 +117,10 @@ the risk of societal collapse and fragmentation increases.
 
 The ΔF–P(t)–S framework presented in this document provides the foundational dynamics of how informational collapse or conscious awakening emerges.  
 本ドキュメントで提示した ΔF–P(t)–S モデルは、  
-情報崩壊あるいは意識覚醒がどのようにして発生するかの基本的な力学を示しています。
+情報崩壊あるいは意識覚醒がどのようにして発生するかの基本的な力学を示すものである。
 
 As global society approaches the informational collapse threshold around 2025–26, this model allows us to:  
-2025〜26年に情報崩壊の臨界点へ近づく中で、本モデルは以下を可能にします：
+2025〜26年に情報崩壊の臨界点へ近づく中で、本モデルは以下を可能にする：
 
 - Anticipate systemic risk accumulation  
   システム的リスクの蓄積を予測する  
