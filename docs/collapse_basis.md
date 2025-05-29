@@ -8,10 +8,10 @@
 
 This document provides the detailed statistical and mathematical rationale behind the projection that global society will reach an informational collapse threshold around 2025–26.  
 本ドキュメントでは、世界社会が2025〜26年に情報崩壊の臨界点に到達すると予測される、  
-統計的・数理的根拠を詳細に解説します。
+統計的・数理的根拠を詳細に解説する。
 
 It complements `critical_point_2025.md` by showing how key parameters converge on that timeframe.  
-これは `critical_point_2025.md` を補完し、各パラメータがいかにその時期に収束するかを示すものです。
+これは `critical_point_2025.md` を補完し、各パラメータがいかにその時期に収束するかを示すものである。
 
 ---
 
