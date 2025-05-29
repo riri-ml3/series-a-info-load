@@ -5,7 +5,7 @@
 
 ### Static Collapse Phase Map / 静的崩壊進行フェーズマップ
 
-![](./figures/intervention_static_collapse.png)
+![](../intervention_static_collapse.png)
 
 ---
 
