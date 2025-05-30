@@ -67,8 +67,8 @@ Beyond this point, the curve suggests a rapid escalation toward **Information Lo
 
 | Path | Future Scenario (English) | 道 | 未来像（日本語） |
 |:--|:--|:--|:--|
-| Path A | Awakening society via ΔF compression, P(t) protection, S reinforcement | A路：主体化ジャンプ社会 | ΔF圧縮・P(t)温存・S増強による覚醒社会 |
-| Path B | Collapse and convergence: rise of denial jumps and mental instability | B路：崩壊・収束社会 | 自己否定ジャンプ増加による精神崩壊・倫理崩壊 |
+| Path A | Awakening society via ΔF compression, P(t) protection, S reinforcement | Aルート：主体化ジャンプ社会 | ΔF圧縮・P(t)温存・S増強による覚醒社会 |
+| Path B | Collapse and convergence: rise of denial jumps and mental instability | Bルート：崩壊・収束社会 | 自己否定ジャンプ増加による精神崩壊・倫理崩壊 |
 
 **To realize a jump-based awakening society, early-stage intervention and ethics-based redesign are essential.**  
 **主体化ジャンプ社会への移行には、早期介入と情報保存・共鳴・ジャンプ理論に基づく社会基盤設計が必要となる。**
