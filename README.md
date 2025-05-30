@@ -22,11 +22,6 @@ Beyond this point, the curve suggests a rapid escalation toward **Information Lo
 ## 2. Structure of This Series  
 ## 2. 本シリーズの構成
 
-Below is the list of documents comprising Series A: Societal Criticality × Informational Load.  
-興味のある章タイトルをクリックしてお進みください。
-
-**Core Theory / 基本理論** (`theory.md`) 
-
 1. **[Core Theory / 基本理論](docs/theory.md)**  
    – Core theory of the ΔF–P(t)–S collapse mechanism.  
    – ΔF–P(t)–S 崩壊メカニズムの基本理論。
@@ -88,8 +83,6 @@ Below is the list of documents comprising Series A: Societal Criticality × Info
 
 > *Note:* A brief intuitive model: the observer’s mind must “fit” complex external patterns into its internal repertoire—if the gap or rigidity is too great, the fit fails and collapse follows.  
 > *補足:* 観測者の内部レパートリーに外部の複雑秩序を“はめ込む”必要があるが、乖離や硬直性が大きすぎると適合に失敗し、崩壊が起きる。
-
----
 
 ---
 
