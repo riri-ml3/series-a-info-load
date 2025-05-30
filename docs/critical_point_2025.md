@@ -62,8 +62,8 @@ P_c = \frac{\ln(0.01)}{-\beta} \approx 80
 | \(\tau\) | Doubling time of global data volume | **1.8 yr** | 1.62 – 1.98 |  
 | \(\beta\) | Sensitivity of adaptation decay | **0.057** | 0.051 – 0.063 |  
 
-We ran **\(n = 10{,}000\)** Monte-Carlo simulations, sampling \(\tau\) and \(\beta\) from normal distributions within the ranges above.  
-上記範囲で \(\tau,\beta\) をサンプリングした **\(n = 10{,}000\)** 回の Monte-Carlo 感度分析を実施しました。  
+We ran **\(n = 10,000\)** Monte-Carlo simulations, sampling \(\tau\) and \(\beta\) from normal distributions within the ranges above.  
+上記範囲で \(\tau,\beta\) をサンプリングした **\(n = 10,000\)** 回の Monte-Carlo 感度分析を実施しました。  
 
 ![Monte-Carlo sensitivity analysis](../critical_month_histogram_v4.png)
 
