@@ -61,7 +61,7 @@ As the risk of static collapse progresses, observers may not only lose the abili
 
 ---
 
-**Note / 注意：**  
+**Note ：**  
 During the progression of static collapse, secondary risks may also arise, including difficulties in emotional regulation, decline in interpersonal communication abilities (due to the delegation of communication to AI agents), and an increase in dependency behaviors.  
 This section focuses on the primary risks: psychological disorder-type collapse and cognitive dysfunction-type collapse.
 
@@ -162,11 +162,11 @@ This is not merely entertainment—it is an entry point into personalized learni
 
 1. **Interest Detection / 興味の検出**  
    The observer encounters content or a phenomenon that evokes emotional-cognitive resonance.  
-   観測者は、感情的・認知的に共鳴する対象に出会う。
+   観測者が、感情的・認知的に共鳴する対象に出会う。
 
 2. **Deepening Learning / 学びの深化**  
    The observer engages with the subject, identifying deeper patterns or logic behind it.  
-   観測者は対象に取り組み、その背後にあるパターンや論理を発見しようとする。
+   観測者はその対象に取り組み、背後にあるパターンや論理を発見しようとする。
 
 3. **Structural Understanding / 構造的理解**  
    Through sustained effort, the observer maps the phenomenon into a broader meaning network.  
