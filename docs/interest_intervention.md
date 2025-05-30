@@ -104,7 +104,7 @@ It reflects where the observer's recognition system detects latent coherence, or
 This makes it the natural starting point for self-driven learning and identity reinforcement.
 
 「好き」という感覚は偶然ではなく、世界との**認知的共鳴フィルター**である。  
-そこには、観測者の認識系が“潜在的な秩序・一貫性・美”を感知している。  
+それは、観測者の認識系が“潜在的な秩序・一貫性・美”を感知している、といえる。  
 この共鳴点こそが、**学び・意味・自己の発展が自然に始まる場所**となる。
 
 ---
@@ -122,7 +122,7 @@ This process can be modeled in four stages:
 
 2. **Curious Exploration / 探究の始動**  
    - The observer deepens engagement through trial, expression, or research.  
-   - 観測者は試行・表現・調査を通じてその対象との関係を深める。
+   - 観測者は、試行・表現・調査を通じてその対象との関係を深める。
 
 3. **Structural Understanding / 構造的理解への到達**  
    - The observer identifies abstract patterns and connects them to broader meaning networks.  
