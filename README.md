@@ -4,6 +4,7 @@
 ---
 
 ## 1. Introduction  
+## 1. はじめに
 
 This series, **Series A**, focuses on the projected **critical threshold of Information Load 80**, which our current model places at **≈ July 2025 (± 1 month)**.  
 We systematically explore the structural causes driving the system toward this threshold, collapse risks, possible intervention designs, and the resulting societal bifurcation patterns and future-evolution maps.  
