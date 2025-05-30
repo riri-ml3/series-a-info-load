@@ -134,3 +134,11 @@ where we explore simulation, intervention, and design for the post-critical era.
 臨界後の社会設計と適応経路を模索していく。
 
 ---
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+## License 
+
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
+
+---
